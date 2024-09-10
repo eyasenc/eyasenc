@@ -1,3 +1,4 @@
+![logo](https://github.com/eyasenc/eyasenc/blob/master/banner.png)
 <h1 align="center">Hi 👋, I'm Md. Eyasen Chowdhury</h1>
 <h3 align="center">I'm excited to excel in Software Quality Assurance and committed to mastering every aspect of it. I focus on ensuring top-notch software performance. With sharp analytical skills and proactive problem-solving abilities, I'm committed to continuous improvement. Eager to contribute to teams, and I keep updated on industry trends to deliver exceptional software solutions.</h3>
 
