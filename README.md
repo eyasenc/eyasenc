@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eyasenc](https://github.com/eyasenc)
 
-- 📫 How to reach me **md.eyasenchowdhury@gmail.com**
+- 📫 How to reach me **eyasenchowdhury@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
